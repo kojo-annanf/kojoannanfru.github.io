@@ -25,7 +25,8 @@ I am a results-driven STEM graduate with hands-on experience in data analysis, p
 
 ## Work Experience
 
-**Bupa | Member Service Advisor**                                             Manchester 10/2023 – Ongoing 
+**Bupa Member Service Advisor**                             
+Manchester 10/2023 – Ongoing 
 
 Understanding customer needs was imperative for guiding members towards healthcare treatments. These skills are transferable when identifying the clients’ needs are crucial to success. Healthcare can be a sensitive topic which meant keeping a positive and inclusive environment was important in aiding the business through better performance. 
 
@@ -43,7 +44,8 @@ Understanding customer needs was imperative for guiding members towards healthca
 
 
 
-**Penrhyn Road Laboratory**	        London | 09/2019 – 05/2022 
+**Penrhyn Road Laboratory**	           
+London | 09/2019 – 05/2022 
 
 I honed my research and analytical skills at Kingston University studying a STEM subject. Critical thinking and problem solving were essential and can be translated into finding trends in business markets and statistics that impact company growth. 
 
