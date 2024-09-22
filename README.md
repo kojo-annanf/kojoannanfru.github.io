@@ -4,6 +4,7 @@
 
 I am a results-driven STEM graduate with hands-on experience in data analysis, process optimization, and problem-solving. With proficient in Python, Excel, and SPSS, I have used these tools to conduct statistical analysis and interpret data. In my previous roles, I successfully implemented data-driven solutions that improved efficiency and client satisfaction. I’m excited to apply my analytical skills to your company where I can generate business insights and promote strategic decision-making.
 
+
 ## Skills 
 
 •	Data analysis and interpretation
@@ -19,6 +20,8 @@ I am a results-driven STEM graduate with hands-on experience in data analysis, p
 •	Project management
 
 •	Google Sheet
+
+
 
 ## Work Experience
 
@@ -38,6 +41,8 @@ Understanding customer needs was imperative for guiding members towards healthca
 
 
 
+
+
 **Penrhyn Road Laboratory**	        London | 09/2019 – 05/2022 
 
 I honed my research and analytical skills at Kingston University studying a STEM subject. Critical thinking and problem solving were essential and can be translated into finding trends in business markets and statistics that impact company growth. 
@@ -49,6 +54,8 @@ I honed my research and analytical skills at Kingston University studying a STEM
 •	Tabulated concentration values in excel using V-Lookup.
 
 •	Managed projects using pivot tables and Gantt charts.
+
+
 
 ## Education
 
