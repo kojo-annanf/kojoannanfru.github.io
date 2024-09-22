@@ -13,6 +13,4 @@ I am a results-driven STEM graduate with hands-on experience in data analysis, p
 •	SPSS statistical analysis (T-test, hypothesis test, probability distribution) 
 •	Project management
 •	Google Sheet
-![image](https://github.com/user-attachments/assets/5553eb5f-99f2-4e0c-b832-8474038df66f)
-
 
