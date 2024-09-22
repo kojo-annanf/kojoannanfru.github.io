@@ -27,9 +27,13 @@ I am a results-driven STEM graduate with hands-on experience in data analysis, p
 Understanding customer needs was imperative for guiding members towards healthcare treatments. These skills are transferable when identifying the clients’ needs are crucial to success. Healthcare can be a sensitive topic which meant keeping a positive and inclusive environment was important in aiding the business through better performance. 
 
 •	Analysed customer inquiry data and identified 30% of calls related to policy confusion, leading to a revision of communication materials.
+
 •	Implemented changes that reduced inquiries by 20%, improving call resolution time and customer satisfaction.
+
 •	Led weekly team meetings for 9 other advisors to relay company updates.
+
 •	Utilised telephony systems and databases to source FCA and PRA regulations.
+
 •	Solved complicated member issues resulting in a 13% reduction in complaint resolution time.
 
 
@@ -39,8 +43,11 @@ Understanding customer needs was imperative for guiding members towards healthca
 I honed my research and analytical skills at Kingston University studying a STEM subject. Critical thinking and problem solving were essential and can be translated into finding trends in business markets and statistics that impact company growth. 
 
 •	Analysed experimental data inconsistencies in a cancer research project, identifying preparation method variations as the issue.
+
 •	Reduced rework by developing a standardized protocol, improving data reliability and overall research accuracy. This shortened the project timeline by 10%.
+
 •	Tabulated concentration values in excel using V-Lookup.
+
 •	Managed projects using pivot tables and Gantt charts.
 
 ## Education
