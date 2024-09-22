@@ -46,7 +46,9 @@ I honed my research and analytical skills at Kingston University studying a STEM
 ## Education
 
 L2 Cyber Security Principles | Learning curve group	         Online | 07/2023 – 08/2023 
+
 Kingston University | BSc Biomedical Science (Hons) 	       London | 09/2019 – 05/2022
+
 Trinity Sixth Form | A Level Math, Chemistry & Biology     Nottingham | 09/2017 – 07/2019
 
 
