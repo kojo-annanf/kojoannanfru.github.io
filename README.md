@@ -7,19 +7,26 @@
 
 ## Skills 
 
-•	Data analysis and interpretation
+•	Microsoft excel (V-Lookups, Pivot tables), PowerPoint, Word
 
 •	Python (Control flow, basic operations, data types and variables)
 
+•	SPSS statistical analysis (T-test, hypothesis test, probability distribution) 
+
 •	Microsoft Dynamics
 
-•	Microsoft excel (V-Lookups, Pivot tables), PowerPoint, Word
+•	Data analysis and interpretation
 
-•	SPSS statistical analysis (T-test, hypothesis test, probability distribution) 
+•	Google Sheet
 
 •	Project management
 
-•	Google Sheet
+## Projects
+
+
+**Monkeypox Casestudy**
+
+**COVID-19 Casestudy**
 
 
 
