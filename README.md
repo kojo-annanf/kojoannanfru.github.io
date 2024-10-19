@@ -1,5 +1,5 @@
 # Data Analyst
-
+![IMG7534 (1)](https://github.com/user-attachments/assets/25278f41-69c8-49cb-baca-3acbd60d2e63)
 ## Summary 
 
 *I am a results-driven STEM graduate with hands-on experience in data analysis, process optimization, and problem-solving. With proficient in Python, Excel, and SPSS, I have used these tools to conduct statistical analysis and interpret data. In my previous roles, I successfully implemented data-driven solutions that improved efficiency and client satisfaction. I’m excited to apply my analytical skills to your company where I can generate business insights and promote strategic decision-making.*
